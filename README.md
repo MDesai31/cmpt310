@@ -1,1 +1,1 @@
-# This is the repo for all things cmpt310 for group 7.
+# This is the repo for all things cmpt310 for the Android Insurgents\.
